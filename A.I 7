@@ -1,0 +1,4 @@
+print("problema 07") 
+vârsta = int(input("Dati vârsta Mariei: "))
+print("Greutatea ideala pentru Maria este: ",(2*vârsta)+8)
+print("Inaltimea ideala pentru Maria este: ",(5*vârsta)+80)
