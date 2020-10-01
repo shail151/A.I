@@ -1,0 +1,6 @@
+print ("problema 04")
+na= int(input("Dati numarul de globulete albe: "))
+nr = na + 3
+nb = (nr + na) - 2
+nt = na + nr + nb
+print("Numarul total de globulete pe brad este ",nt)
