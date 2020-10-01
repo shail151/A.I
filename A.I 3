@@ -1,0 +1,5 @@
+print("problema 03")
+s1 = int(input("Câți copii au urcat la prima stație: "))
+s2 = int(input("Câți copii au urcat la a doua stație: "))
+t = s1 + s2 + 7
+print("În excursie au plecat ",t," copii")
