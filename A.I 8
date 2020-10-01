@@ -1,0 +1,5 @@
+print("problema 08")
+a = input("dati a= ")
+b = input("dati b= ")
+c = input("dati c= ")
+print(a+b+c,a+c+b,c+b+a,c+a+b,b+a+c)
