@@ -17,3 +17,5 @@ if n==7 :
     print("violet")
 if ((n>7) or (n<1)) :
     print ("Curcubeul are doar 7 culori")
+
+    It is the a romanian language
